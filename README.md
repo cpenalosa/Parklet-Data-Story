@@ -1,4 +1,6 @@
-# Parklet-Data-Story
+# Parklet Data Story Block Level Analysis
+
+### Requirements
 - Software required for analysis
 [R Studio](https://www.rstudio.com/)
 - Javascript Charting Library (optional) [BriteCharts](https://glitch.com/~jagged-universe)
