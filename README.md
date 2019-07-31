@@ -1,7 +1,7 @@
 # Parklet-Data-Story
-Software required for analysis
+- Software required for analysis
 [R Studio](https://www.rstudio.com/)
-Javascript Charting Library (optional) [BriteCharts](https://glitch.com/~jagged-universe)
+- Javascript Charting Library (optional) [BriteCharts](https://glitch.com/~jagged-universe)
 
 ### Compare Parklet Assessor Blocks and San Francisco Citywide Trends
 Parklet Block IDs are in the Block IDs spreadsheet
