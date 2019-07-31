@@ -1,8 +1,10 @@
 # Parklet-Data-Story
-Scripts used for analyzing San Francisco Assessments
+Software required for analysis
+[R Studio](https://www.rstudio.com/)
 
 ### Compare Parklet Assessor Blocks and San Francisco Citywide Trends
-Parklet Block IDs are in the ID spreadsheet
+Parklet Block IDs are in the Block IDs spreadsheet
+Citywide Assessor values can be found on [Stae](https://sf-ca.municipal.systems/types/assessment/export)
 
 ### Set working directory and run the R Script
-A sample output spreadsheet is provided to show what is returned from analyzing assessor values from [DataSF's](https://data.sfgov.org/Housing-and-Buildings/Assessor-Historical-Secured-Property-Tax-Rolls/wv5m-vpq2) open datal portal.
+A sample output spreadsheet is provided to show what is returned from analyzing assessor values. To perform the subsequent years analysis, increment the year in the script where `2017` is referenced.
